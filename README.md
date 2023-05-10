@@ -1,1 +1,3 @@
-# Week10_HJ
+# Week10_HJ\
+
+This is a sample readme file
